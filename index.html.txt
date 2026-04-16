@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>Personal Course Organizer</h1>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="courses.html">My Courses</a>
+    <a href="add-course.html">Add Course</a>
+    <a href="contact.html">Contact</a>
+</nav>
+
+<main>
+    <h2>Welcome</h2>
+    <p>This is my website</p>
+</main>
+
+</body>
+</html>

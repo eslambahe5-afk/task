@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Contact</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header><h1>Contact Us</h1></header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="courses.html">My Courses</a>
+    <a href="add-course.html">Add Course</a>
+    <a href="contact.html">Contact</a>
+</nav>
+
+<main>
+    <p>Email: test@email.com</p>
+</main>
+
+</body>
+</html>

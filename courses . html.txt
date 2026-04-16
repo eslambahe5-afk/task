@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Courses</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header><h1>My Courses</h1></header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="courses.html">My Courses</a>
+    <a href="add-course.html">Add Course</a>
+    <a href="contact.html">Contact</a>
+</nav>
+
+<main>
+
+<table>
+<tr>
+<th>Course</th>
+<th>Instructor</th>
+<th>Hours</th>
+</tr>
+
+<tr><td>HTML</td><td>Ahmed</td><td>3</td></tr>
+<tr><td>CSS</td><td>Ali</td><td>2</td></tr>
+<tr><td>JS</td><td>Omar</td><td>4</td></tr>
+<tr><td>Math</td><td>Hassan</td><td>3</td></tr>
+<tr><td>Physics</td><td>Mostafa</td><td>2</td></tr>
+
+</table>
+
+</main>
+
+</body>
+</html>
